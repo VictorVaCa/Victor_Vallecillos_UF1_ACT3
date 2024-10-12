@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Victor_Vallecillos_UF1_ACT3</string>
+    <string name="hola">hola</string>
+    <string name="mon">món!</string>
 </resources>
